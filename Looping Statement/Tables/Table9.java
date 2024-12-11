@@ -1,0 +1,11 @@
+class Table9
+{
+	public static void main(String[] args)
+	{
+		int no=9;
+		for(int i=1;i<11;i++)
+		{
+			System.out.println(no+"*" +i+"=" + (no *i));
+		}
+	}
+}

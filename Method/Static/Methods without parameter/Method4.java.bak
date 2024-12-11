@@ -1,0 +1,14 @@
+class Method1
+{
+	static void parellelogram()
+	{
+		int b=4;
+		int h=5;
+		int area=b*h;
+		System.out.println("Area of parellelogram:"+area);
+	}
+	public static void main(String[] args)
+	{
+		parellelogram();
+	}
+}
